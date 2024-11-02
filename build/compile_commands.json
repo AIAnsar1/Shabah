@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/corevoid/Desktop/projects/Shabah/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -o CMakeFiles/Shabah.dir/main.cpp.o -c /Users/corevoid/Desktop/projects/Shabah/main.cpp",
+  "file": "/Users/corevoid/Desktop/projects/Shabah/main.cpp",
+  "output": "CMakeFiles/Shabah.dir/main.cpp.o"
+}
+]
